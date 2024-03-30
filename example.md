@@ -1,10 +1,5 @@
 # Example of diagrams in mermaid.js using WMS (Warehouse Management System) as case study
 
-## Prerequisites
-
-- VS Code with Mermaid.js extension installed
-- Clone this repository to your local machine
-
 ## Sequence Diagram
 
 - Diagram for creating a new order in a Warehouse Management System (WMS):
